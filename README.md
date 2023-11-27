@@ -1,6 +1,10 @@
 # 💫 About Me:
 🤓I'm a skilled software developer with expertise in javascript, typescript and java/<br>⚡I'm also a Microsoft certified app maker associate.<br>🎓Currently pursuing bachelors in computer science and engineering with specialization in AI and Robotics.<br>🤝I collabrate with people online to bring the best outta each other
 
+<img
+  src="https://github.com/SriramVaishnav/SriramVaishnav/blob/main/images/stat.svg"
+  alt="Sriram WakaTime Activity"
+/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriramfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriram-vaishnav) 
